@@ -1,0 +1,19 @@
+.cusSticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-right:50px;
+    padding-right:20px;
+
+    z-index: 999;
+    }
+    
+    .bg-dark{
+        background-color:#0d6efd !important;
+    }
+
+    nav
+    {
+        padding-left:10px;
+        padding-right:10px;
+    }
