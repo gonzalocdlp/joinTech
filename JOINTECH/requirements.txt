@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+nltk==3.7
+pandas==1.4.2
+pdfminer3==2018.12.3.0
+Pillow==9.1.1
+PyMySQL==1.0.2
+pyresparser==1.0.6
+requests==2.26.0
+streamlit==1.10.0
+streamlit_tags==1.2.8
