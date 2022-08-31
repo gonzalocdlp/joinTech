@@ -5,4 +5,4 @@
 
 A website that allows you to search for jobs by prefered framework or programming language, level of experience, and location. It highlights these details and provides links if you want to learn more about the frameworks or programming languages listed.
 
-UI Preview (Resume parser not integrated): Jointech.netlify.app
+UI Preview (Resume parser not integrated): https://Jointech.netlify.app
